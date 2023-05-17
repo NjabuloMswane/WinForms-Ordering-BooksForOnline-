@@ -1,0 +1,30 @@
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.exe.config
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.exe
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.pdb
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.AssemblyReference.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmLogin.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.Properties.Resources.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.GenerateResource.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.CoreCompileInputs.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.exe
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.pdb
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmRegister.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmDelivery.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmHome.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmCart.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.exe.config
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.exe
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\bin\Debug\Digital Book Ordering System GUI.pdb
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.AssemblyReference.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmCart.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmHome.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmLogin.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.Properties.Resources.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmRegister.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.GenerateResource.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.csproj.CoreCompileInputs.cache
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.exe
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital Book Ordering System GUI.pdb
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmPayment.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmInvoice.resources
+C:\Users\Liyabona Mgca\source\repos\Digital Book Ordering System GUI\Digital Book Ordering System GUI\Digital Book Ordering System GUI\obj\Debug\Digital_Book_Ordering_System_GUI.frmForgot_Password.resources
